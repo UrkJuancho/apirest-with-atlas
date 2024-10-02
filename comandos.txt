@@ -1,0 +1,12 @@
+Depedencias y Comandos a Usar
+npm init -y
+npm i express
+npm i nodemon -D
+npm install mongodb
+npm i mongoose
+
+Credenciales MongoDB Atlas
+user // juanvallejo7601
+password // bzBY4WEPqcmEW3HJ
+
+DB_Url // mongodb+srv://juanvallejo7601:bzBY4WEPqcmEW3HJ@cluster0.2e937.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
